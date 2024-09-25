@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from src.Osintgram import Osintgram
 import argparse
 from src import printcolors as pc
